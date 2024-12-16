@@ -1,0 +1,35 @@
+.user-details-container {
+    background-color: #f9f9f9;
+    border: 2px solid #004AAD;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 50%; /* Ekranın %50'sini kaplayacak şekilde genişlik */
+    margin: 0 auto; /* Ortalamak için margin ayarları */
+    height: 50vh; /* Yükseklik olarak ekranın %50'sini kaplayacak şekilde */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .user-icon {
+    width: 80px; /* Fotoğrafı biraz daha büyük yapmak için */
+    height: 80px;
+    margin-bottom: 20px;
+  }
+  
+  .user-details p {
+    margin: 10px 0;
+    color: #004AAD;
+    font-size: 18px; /* Yazıların biraz daha büyük olması için */
+  }
+  
+  .user-management {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Sayfanın tamamını kaplamak için */
+  }
+  

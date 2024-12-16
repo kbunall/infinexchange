@@ -1,0 +1,10 @@
+.marginTop{
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+.a{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+}
